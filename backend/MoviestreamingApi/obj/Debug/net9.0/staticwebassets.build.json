@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qq8FHm/bW1uQjfyjDwjH3WEzfa+Xsq/8fvoyxKCP3DY=",
+  "Source": "MoviestreamingApi",
+  "BasePath": "_content/MoviestreamingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
